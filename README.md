@@ -17,4 +17,5 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL).
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejass-as&langs_count=6&hide_title=true&hide_border=true&layout=compact&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p><img height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejass-as&show_icons=true&locale=en&layout=compact&theme=aura" alt="tejass-as" /></p>
+<p>&nbsp;<img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=tejass-as&show_icons=true&locale=en&theme=aura" alt="tejass-as" /></p>
