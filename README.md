@@ -74,6 +74,12 @@
   <a href="https://www.instagram.com/tejass.as/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://leetcode.com/u/TejusS/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/tail" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=COdechef&logo=codechef&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
